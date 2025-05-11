@@ -213,7 +213,7 @@ The weight value will return to normal if you deposit all the items into your st
 "3012","%d MP Used"
 "3013","%d SP Recovered"
 "3014","%d SP Used"
-"3015","%s 빚맞힘."
+"3015","%s Missed."
 "3016","%s received %d damage"
 "3017","%s received %d HP  "
 "3018","You cannot equip this item.  This item is designed for a different race. "
